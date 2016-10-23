@@ -3,5 +3,6 @@
     <pages>
         <page name='WelcomeToSwift'/>
         <page name='CollectionTypes'/>
+        <page name='ControlFlow'/>
     </pages>
 </playground>

@@ -6,5 +6,6 @@
         <page name='ControlFlow'/>
         <page name='Functions'/>
         <page name='Closures'/>
+        <page name='ClassAndStructures_1'/>
     </pages>
 </playground>

@@ -9,5 +9,6 @@
         <page name='ClassAndStructures_1'/>
         <page name='ARC'/>
         <page name='ErrorHandling'/>
+        <page name='TypeCasting'/>
     </pages>
 </playground>

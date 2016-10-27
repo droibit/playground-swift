@@ -8,5 +8,6 @@
         <page name='Closures'/>
         <page name='ClassAndStructures_1'/>
         <page name='ARC'/>
+        <page name='ErrorHandling'/>
     </pages>
 </playground>

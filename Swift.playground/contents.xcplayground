@@ -10,5 +10,6 @@
         <page name='ARC'/>
         <page name='ErrorHandling'/>
         <page name='TypeCasting'/>
+        <page name='NestedTypes'/>
     </pages>
 </playground>
